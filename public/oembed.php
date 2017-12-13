@@ -200,7 +200,7 @@ $adapterData = [
             <fieldset class="action">
                 <button type="submit">Test</button>
                 &nbsp;&nbsp;&nbsp;
-                <a href="https://gitlab.com/VotePen/OEmbed/">Get the source code from GitLab</a>
+                <a href="https://github.com/votepen/OEmbed/">Get the source code from GitHub</a>
             </fieldset>
         </form>
 
