@@ -1,0 +1,2 @@
+Git Tag - git tag -a v12.10.17 -m 'v12.10.17'
+          git push --tags
