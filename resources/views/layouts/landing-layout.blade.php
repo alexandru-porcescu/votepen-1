@@ -102,7 +102,7 @@
 				<h3 class="go-green">Social</h3>
 				<ul>
 					<li><a href="https://medium.com/votepen" target="_blank">Blog</a></li>
-					<li><a href="https://gitlab.com/VotePen" target="_blank">GitLab</a></li>
+					<li><a href="https://github.com/votepen/votepen" target="_blank">GitHub</a></li>
 					<li><a href="https://twitter.com/votepen/" target="_blank">Twitter</a></li>
 					<li><a href="https://facebook.com/votepen.com/" target="_blank">Facebook</a></li>
 				</ul>
