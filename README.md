@@ -1,5 +1,6 @@
 # VotePen
 
+[![Build Status](https://semaphoreci.com/api/v1/votepen/votepen/branches/master/shields_badge.svg)](https://semaphoreci.com/votepen/votepen)
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/votepen/votepen)
 [![jsDelivr](https://data.jsdelivr.com/v1/package/npm/votepen/badge)](https://www.jsdelivr.com/package/npm/votepen)
 
