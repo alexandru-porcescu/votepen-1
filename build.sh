@@ -2,7 +2,7 @@
 . ~/.nvm/nvm.sh
 
 git pull origin master
-nvm use 8.9.1
+nvm use 9.2.0
 npm run build
 php artisan view:clear
 php artisan cache:clear
